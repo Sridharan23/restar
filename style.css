@@ -1,0 +1,162 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+  font-family: "Montserrat", sans-serif;
+} 
+
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+   
+
+
+}
+.title{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 10px;
+   
+}
+.title__nav li{
+    list-style: none;
+    display: inline-block;
+    color: aliceblue;
+    padding-top: 5px;
+    
+
+
+}
+
+
+.item{
+    
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+   
+}
+
+
+ 
+.item__one{
+    
+    margin: 10px;
+    border: black solid 5px;
+    width: 200px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    
+    
+
+}
+p{
+ text-align: center;
+}
+
+.item__two{
+    
+    margin: 10px;
+    border: black solid 5px;
+    width: 200px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    
+   
+   
+
+}
+.item__three{
+    margin: 10px;
+    border: black solid 5px;
+    width: 200px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    
+    
+}
+.item__four{
+    margin: 10px;
+    border: black solid 5px;
+    width: 200px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    
+    
+    
+} 
+.button{
+    
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-top: 15px;
+    
+    
+}
+
+
+
+
+.contact{
+    background-color: #000000;
+    color: white;
+    margin-top: 10px; 
+   margin-bottom: 0px;
+    text-align: center;
+}
+
+.table{
+    display: inline-block;
+    text-align: center;
+}
+
+
+
+#send{
+    padding: 10px;
+    margin-top: 15px;
+    color: black;
+    background-color: yellow;
+    width: 450px;
+    justify-content: center;
+    
+
+
+
+}
+#send:hover{
+    background-color: green;
+    color:black;
+}
+
+button:hover{
+    background-color: rgb(211, 15, 15);
+    color: black;
+}
+
+
+
+
+
+
+
